@@ -1,4 +1,4 @@
-<h1>Hi, I'm Craig, an <a href="https://linkedin.com/in/craig-lee">IT Professional</a>☺</h1>
+<h1>Hi, I'm Craig, an <a href="https://linkedin.com/in/craig-lee-7a0b86227/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
